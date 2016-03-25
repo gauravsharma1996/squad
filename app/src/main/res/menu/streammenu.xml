@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nrstream" android:title="Normal Streaming"></item>
+    <item android:id="@+id/facestream" android:title="Face Detection"></item>
+    <item android:id="@+id/fingerstream" android:title="Finger counting"></item>
+    <item android:id="@+id/objecstream" android:title="Object Tracking"></item>
+
+</menu>

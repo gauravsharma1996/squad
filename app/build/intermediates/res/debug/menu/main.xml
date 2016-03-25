@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/item1"
+        android:title="MaxThrottle"></item>
+    <item android:id="@+id/noyaww" android:title="Yaw-Off"></item>
+    <item android:id="@+id/midd" android:title="Mid Values "></item>
+    <item android:id="@+id/gyr" android:title="Gyro-On"></item>
+    <item android:id="@+id/gyro_calib" android:title="Calibrate"></item>
+    <item android:id="@+id/surv" android:title="Surveillance"></item>
+    <item android:id="@+id/naza" android:title="Calib Naza"></item>
+    <item android:id="@+id/ip" android:title="IP Address"></item>
+    <item android:id="@+id/minmax" android:title="Min-Max"></item>
+    <item android:id="@+id/gesture" android:title="Gesture Control"></item>
+    <item android:id="@+id/rec" android:title="Record Video"></item>
+    <item android:id="@+id/recrequest" android:title="Onboard recording"></item>
+    <item android:id="@+id/update" android:title="Check For Update"></item>
+    <item android:id="@+id/pathplot" android:title="Path"></item>
+    <item android:id="@+id/log" android:title="Log Download"></item>
+    <item android:id="@+id/logrequest" android:title="Logging Request"></item>
+    <item android:id="@+id/setupval" android:title="Arduino Setup"></item>
+    <item android:id="@+id/maponmain" android:title="Live Plotting"></item>
+    <item android:id="@+id/virtual_reality" android:title="Virtual Reality"></item>
+</menu>
+<!-- From: file:/F:/backup/StudioProjects/squad_test/app/src/main/res/menu/main.xml -->
